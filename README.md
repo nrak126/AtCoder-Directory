@@ -1,6 +1,8 @@
 # AtCoder-Directory
 
-AtCoder(https://atcoder.jp/)において, コーディングや提出などの動作をエディタベースで行い, 今まで解いた問題の解答などのアーカイブを残すためのディレクトリ.
+AtCoderにおいて, コーディングや提出などの動作をエディタベースで行い, 今まで解いた問題の解答などのアーカイブを残すためのディレクトリ.
+
+https://atcoder.jp/
 
 `git clone https://github.com/aiutarsi/AtCoder-Directory.git` してもらうことで使うことができます.
 
